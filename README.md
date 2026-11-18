@@ -2,6 +2,31 @@
 
 A collection of chapter-wise homework assignments and solutions completed for Diwali break.
 
+
+# 📚 Chapters Covered
+
+| Chapter | Chapter Name |
+| :--- | :--- | 
+| Chapter 01 | What are Computers?   | 
+| Chapter 02 | Hardware & Software   |
+| Chapter 03 | CLI                   |
+| Chapter 04 | Interfaces            | 
+| Chapter 05 | Operating Systems     | 
+| Chapter 06 | File System           |
+| Chapter 07 | How Software Works    | 
+| Chapter 08 | Number Systems        | 
+| Chapter 09 | Git & Version Control | 
+| Chapter 10 | Computer Networks.    | 
+
+# 📝 Details
+
+* Student:** Ayush (`@starkayush`)
+* Subject:** S&AI 
+* Format:** Chapter-wise PDF documents
+
+---
+*Created for academic submission and reference.*
+
 #📁 Repository Structure
 
 All assignment files are organized inside the main folder:
@@ -20,3 +45,5 @@ diwali-home-work/
     ├── Chapter 08.pdf
     ├── Chapter 09.pdf
     └── Chapter 10.pdf
+
+
