@@ -27,7 +27,7 @@ A collection of chapter-wise homework assignments and solutions completed for Di
 ---
 *Created for academic submission and reference.*
 
-#📁 Repository Structure
+# 📁 Repository Structure
 
 All assignment files are organized inside the main folder:
 
